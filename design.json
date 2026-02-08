@@ -1,0 +1,49 @@
+{
+  "body": {
+    "rows": [
+      {
+        "cells": [
+          1
+        ],
+        "columns": [
+          {
+            "id": 1,
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "text": "<h1 style='color: #ffffff;'>Cold Sales Outreach</h1>",
+                  "containerPadding": "20px"
+                }
+              },
+              {
+                "type": "text",
+                "values": {
+                  "text": "<p style='color: #ffffff;'>This is a manually hardened version of the Cold Sales template to verify switching works.</p>",
+                  "containerPadding": "10px"
+                }
+              }
+            ],
+            "values": {
+              "width": 12,
+              "padding": "0px"
+            }
+          }
+        ],
+        "values": {
+          "backgroundColor": "#003274",
+          "padding": "40px"
+        }
+      }
+    ],
+    "values": {
+      "backgroundColor": "#ffffff",
+      "contentWidth": "600px",
+      "fontFamily": {
+        "label": "Arial",
+        "value": "arial,helvetica,sans-serif"
+      }
+    }
+  },
+  "schemaVersion": 15
+}
